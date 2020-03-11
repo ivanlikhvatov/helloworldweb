@@ -7,18 +7,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="39050f69-62b5-42a1-8014-453fbea1e8c9" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/web-hello-world/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/web-hello-world/helloworldweb.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/web-hello-world/pom.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/web-hello-world/src/main/java/servlets/MyServlet.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/web-hello-world/src/main/webapp/index.jsp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/web-hello-world/target/classes/servlets/MyServlet.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/web-hello-world/target/helloworld-web-1.0-SNAPSHOT.war" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/web-hello-world/target/helloworld-web-1.0-SNAPSHOT/META-INF/MANIFEST.MF" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/web-hello-world/target/helloworld-web-1.0-SNAPSHOT/WEB-INF/classes/servlets/MyServlet.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/web-hello-world/target/helloworld-web-1.0-SNAPSHOT/WEB-INF/lib/javaee-api-5.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/web-hello-world/target/helloworld-web-1.0-SNAPSHOT/index.jsp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/web-hello-world/target/maven-archiver/pom.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/servlets/MyServlet.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/servlets/MyServlet.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -38,7 +28,7 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/web-hello-world" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="LogFilters">
     <option name="FILTER_ERRORS" value="false" />
@@ -182,6 +172,7 @@
       <workItem from="1583822136153" duration="105000" />
       <workItem from="1583914820992" duration="165000" />
       <workItem from="1583916634536" duration="781000" />
+      <workItem from="1583921754229" duration="29000" />
     </task>
     <servers />
   </component>
